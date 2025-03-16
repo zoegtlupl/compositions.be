@@ -1,0 +1,576 @@
+
+@font-face {
+	font-family: "atlas";
+	src: url("../static/font/BBBBaskervvol-Fondue.otf");
+}
+
+body {
+	margin: 2px;
+	padding: 2px;
+	font-family: 'atlas';
+	background-color: white;
+}
+
+
+.logo-image {
+	padding: 0px 0px 0px 18px;
+}
+
+
+.logo-image p {
+	font-size: 2.1em;
+}
+
+.zoe {
+	font-family: 'atlas'; /* Exemple de police pour Atlas Collectif */
+	color: #3d47b6;
+	font-size: 0.7em;
+	background-image: url(img/ellipse.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: right;
+	padding: 10px;
+	display: inline-block;
+}
+
+
+a {
+	text-decoration: none;
+	padding: 0px;
+}
+
+
+
+.fanzine {
+	font-family: 'fanzine'; /* Exemple de police pour Fanzine Festival */
+}
+
+i {
+	font-style: normal!important;
+	font-family: 'atlas';
+}
+
+ul {
+	list-style: square;
+	list-style-type: disc;
+	margin: 10px;
+	font-size: 0.9em;
+	padding-inline-start: 2px;
+}
+
+
+
+li {
+	margin-bottom: 10px;
+	background-color: transparent;
+	font-weight: 900;
+	transition-duration: 0.2s;
+}
+
+
+li:hover {
+	color: #3d47b6;
+}
+
+
+
+
+#menu ul {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+#menu li {
+	margin: 0 5px;
+	flex-grow: 1;
+	text-align: center;
+}
+
+#menu a {
+	display: block;
+	padding: 8px;
+	text-decoration: none;
+	color: #626262;
+	background-color: darkgray;
+	transition-duration: 0.5s;
+}
+
+#menu-author a.home {
+	text-decoration: none;
+}
+
+#menu-author li img {
+	width: 300px;
+	margin-right: 10px;
+}
+
+.author-list,.list-ex {
+	width: 450px;
+}
+
+#menu-author a {
+	background-color: #d3d3d3;
+	display: flex;
+	padding: 10px;
+	text-decoration: none;
+	transition-duration: 0.5s;
+	color: #626262;
+	flex-direction: row;
+	align-content: space-between;
+	flex-wrap: nowrap;
+	align-items: center;
+}
+
+#menu-author a:hover {
+	color: black;
+	border-radius: 2px;
+	background-color: white;
+}
+
+#menu-author li {
+	margin: 0 15px;
+	flex-grow: 1;
+	text-align: left;
+	color: black; /* Assurez-vous que la couleur de texte est définie ici */
+	transition-duration: 0.5s;
+	background-color: #d3d3d3;
+}
+
+#menu-author ul {
+	background-color: #d3d3d3;
+	display: flex;
+	justify-content: flex-start;
+	align-items: stretch;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	margin-bottom: 20px;
+}
+
+#menu a.home {
+	background-image: url('img/scar-long_animated.svg');
+	background-size: 100%;
+	background-position: center center;
+}
+
+#menu a:hover {
+	color: white;
+	border-radius: 5px;
+	background-color: #626262;
+}
+
+a {
+	color: #626262;
+	transition-duration: 0.2s,
+}
+
+a:hover {
+	text-decoration: none;
+	color: #3d47b6;
+
+}
+
+h4 {
+	font-size: 1.5em;
+	margin: 1px 0px 40px;
+	width: 65vw;
+	text-align: justify;
+	translate: 10.5vw;
+}
+
+h1 {
+	margin: 0px 0px 10px 0px;
+}
+
+h2 {
+	font-size: 24px;
+	margin: 10px;
+	font-size: 1.2em;
+	margin: 1px 0px 4px;
+	width: 60vw;
+	text-align: justify;
+	translate: 10vw;
+}
+
+
+h2:hover {
+	color: #3d47b6;
+	text-decoration: underline;
+}
+
+h3 {
+	margin: 0px;
+	color: #626262;
+	font-weight: 100;
+	font-size: 0.9em;
+	margin: 0px 0px 20px 0px;
+}
+
+img {
+	width: 100%;
+	height: auto;
+}
+
+.cartel {
+	width: 20vw;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	flex-wrap: nowrap;
+	align-content: flex-start;
+	padding: 10px;
+}
+
+.cartel img {
+	width: 700px;
+	margin: 0px 20px 0px 0px;
+}
+
+
+.article {
+	display: flex;
+	padding: 0px;
+}
+
+.article.wdesc h4,.article.wdesc h5 {
+	margin: 0px 0px 6px 10px;
+	font-family: 'atlas'
+}
+
+.article.wdesc h5 {
+	margin: 0px 0px 10px 2px;
+	font-size: 19px;
+}
+
+.article.wdesc h3 {
+	margin: 0px 0px 0px 10px;
+}
+
+.article.wdesc h5 {
+	margin: 0px 0px 0px 10px;
+}
+
+.wdesc {
+	color: #626262;
+	width: 100%;
+}
+
+.wdesc iframe {
+	width: 60vw;
+	height: 50vh;
+	translate: 10vw;
+}
+
+
+table {
+	width: 61vw;
+	border-collapse: collapse;
+	margin-bottom: 20px;
+	translate: 10vw;
+}
+
+th, td {
+	padding: 10px;
+	text-align: center;
+	border: 1px solid #ddd;
+}
+
+
+/* Appliquer des styles aux paragraphes qui ne contiennent pas d'images */
+p:not(:has(img)) {
+	text-indent: 65px;
+	padding:10px;
+
+}
+
+p {
+	width: 60vw;
+	text-align: justify;
+	translate: 10vw;
+	font-size: 1em;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+/* Style pour les paragraphes qui contiennent un élément <strong> */
+p:has(strong) {
+	border: 2px dotted black;
+	padding: 10px;
+}
+
+
+p:has(em) {
+	display: block;
+}
+
+p:has(u) {
+	display: block;
+}
+
+p a {
+	text-decoration: underline;
+	color: #3d47b6;
+}
+
+
+p img {
+	display: block;
+	margin: 0 auto;
+	max-width: 100%;
+	height: auto;
+}
+
+strong {
+	font-weight: 100;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-indent: 60px;
+}
+
+
+
+.cartel p {
+	text-indent: 0vw;
+	font-weight: bold;
+	width: inherit;
+/*	transform: translateY(-7vh);*/
+	translate: inherit;
+	color: #3d47b6;
+}
+
+.wdesc img, #gallery img {
+	align-items: center;
+	margin: 5px;
+	max-width: 70%;
+	height: auto;
+}
+
+video {
+	display: block;
+	margin: 10px;
+	max-width: 400px;
+	height: auto;
+	width: 400px;
+}
+
+
+
+iframe {
+	width: -webkit-fill-available;
+	height: 500px;
+}
+
+
+#gal {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(430px, 1fr));
+	grid-gap: 1px;
+	justify-content: center;
+	margin: 1px;
+}
+
+.img_containers {
+	position: relative;
+	overflow: hidden;
+	display: grid;
+	justify-items: center;
+	justify-content: center;
+	align-items: center;
+	align-content: space-around;
+}
+
+.img_containers img {
+	width: 100%;
+}
+
+.fullImg {
+	grid-column: span 4;
+	height: auto!important;
+}
+
+.fullImg img {
+	width: 70%;
+}
+
+em img, em video {
+	display: block;
+	margin: 50px auto;
+	max-width: 100%;
+	height: auto;
+	width: 75%;
+}
+
+em video {
+	width: 500px;
+}
+
+p em a {
+	color: #626262;
+	transition-duration: 0.5s;
+}
+
+p em a:hover {
+	color: white;
+	background-color: #626262;
+	border-radius: 5px;
+}
+
+
+@font-face {
+	font-family: "Whois";
+	src: url("../static/font/MinionVariableConcept-Italic.otf");
+}
+
+@font-face {
+	font-family: "police2";
+	src: url("../static/font/MinionVariableConcept-Italic.otf");
+}
+
+@media only screen and (max-width: 767px) {
+	/* Réglages généraux */
+	body {
+		font-size: 0.9em;
+	}
+
+	.logo-image {
+		padding: 0px; 
+	}
+
+
+	.article {
+		display: flex;
+		padding: 0px;
+		flex-direction: column;
+	}
+
+	/* Menu */
+	#menu ul {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+
+	#menu li {
+		margin: 5px;
+		flex-basis: 45%; /* Ajustez selon vos besoins */
+	}
+
+	#menu a {
+		padding: 5px;
+		font-size: 0.8em;
+	}
+
+	/* Logo */
+	.logo-image p {
+		font-size: 1.5em;
+	}
+
+	.logo-image  {
+		padding: 0px ;
+	}
+
+
+	/* Paragraphes et titres */
+	p {
+		text-indent: 5px;
+		text-align: justify;
+		font-size: 0.6em;
+	}
+
+	/* Style pour les paragraphes qui contiennent un élément <strong> */
+	p:has(strong) {
+		border: 2px dotted black;
+		padding: 10px;
+	}
+
+
+	p:has(em) {
+		display: block;
+	}
+
+	p:has(u) {
+		display: block;
+	}
+
+	h1 {
+		font-size: 1.9em;
+	}
+
+	h2, h3, h4, h5 {
+
+		text-align: justify;
+		font-size: 0.6em;
+	}
+
+	/* Cartel */
+	.cartel {
+		width: 100%;
+		display: flex;
+		flex-direction: column;
+		align-items: stretch;
+	}
+
+	.cartel img {
+		width: 100%;
+		height: auto;
+	}
+
+	.cartel p {
+		transform: translateY(-5vh);
+		font-size: 0.9em;
+	}
+
+	/* Autres éléments */
+	.wdesc iframe {
+		width: 90vw;
+		height: 250px;
+		margin-left: 5vw;
+	}
+
+	table {
+		font-size: 0.6em;
+	}
+
+	/* Galerie */
+	#gal {
+		grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+	}
+
+	.img_containers img {
+		max-width: 100%;
+	}
+
+	.fullImg img {
+		width: 80%;
+	}
+
+	em img, em video {
+		width: 60%;
+	}
+
+	em video {
+		width: 300px;
+	}
+
+
+
+}
+
+
+@font-face {
+	font-family: "776";
+	src: url("../static/font/MinionVariableConcept-Italic.otf");
+}
+
+@font-face {
+	font-family: "fanzine";
+	src: url("../static/font/HoeflerText-Italic-Swash.ttf");
+}

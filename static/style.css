@@ -1,0 +1,427 @@
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	font-family: "atlas"; /* Assurez-vous que cette police est définie quelque part dans votre CSS */
+	background-color: white;
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh; /* Assure que le conteneur prend toute la hauteur */
+}
+
+footer {
+	text-align: center;
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+	font-family: 'atlas';
+	color: #626262;
+	border-radius: 10px;
+	font-size: 1.5em;
+}
+
+footer:hover {
+	color: #3d47b6; /* Change la couleur au survol */
+	text-decoration: underline; /* Ajoute un soulignement au survol */
+	transition-duration: 0.5s; /* Animation fluide */
+	/*	background-color: #f0f0f0;  Ajout d'une couleur de fond légère au survol */
+}
+
+.main {
+	display: flex;
+	flex-direction: column;
+	align-content: stretch;
+	align-items: center;	
+	font-family: 'atlas';
+	color: #626262;
+	/*	margin: 100px;*/
+
+}
+
+
+.logo-image {
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	margin: 7.5vh 2vw;
+}
+
+.logo-image img {
+	width: 640px;
+	height: auto;
+	padding: 10px 0px 20px 0px;
+}
+
+.home-image img {
+	width: 100%;
+	height: auto;
+	object-fit: cover;
+}
+
+.logo-image p {
+	font-size: 2.1em;
+}
+
+.zoe {
+	font-family: 'atlas';
+	font-weight: bold;
+	font-size: 2.5em;
+	background-image: url(img/ellipse.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: right;
+	padding: 10px;
+	display: inline-block;
+}
+
+.circle {
+	position: absolute;
+	top: -20px;
+	left: -20px;
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+	background-color: #000;
+}
+
+
+i {
+	font-style: normal!important;
+	font-family: 'atlas';
+}
+
+.t1 {
+	color: #2e2e2e;
+	margin: 20px 0;
+	text-align: left;
+	display: flex;
+	justify-content: space-around;
+}
+
+#menu ul, #menu-author ul, #menu-cat ul {
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	flex-wrap: wrap;
+	margin-bottom: 20px;
+	flex-direction: row;
+}
+
+#menu li, #menu-author li, #menu-cat li {
+	margin: 0 15px;
+	flex-grow: 1;
+	text-align: left;
+	color: transparent;
+	transition-duration: 0.5s;
+}
+
+#menu a, #menu-author a, #menu-cat a {
+	display: block;
+	padding: 10px;
+	text-decoration: none;
+	transition-duration: 0.5s;
+	border: solid white 1px;
+	font-size: 1.95em;
+	text-align: center;
+}
+
+
+
+#menu-cat a {
+	display: block;
+	padding: 10px;
+	text-decoration: none;
+	transition-duration: 0.5s;
+	border: solid white 1px;
+	font-size: 1.25em;
+	text-align: center;
+}
+
+
+
+#menu a:hover, #menu-author a:hover, #menu-cat a:hover {
+	color: #2e2e2e;
+	border-radius: 5px;
+	background-color: #d9d9d9;
+}
+
+#menu-cat li img {
+	width: 30px;
+	margin-right: 10px;
+}
+
+.author-list, .list-ex, .category-list {
+	width: 100%;
+}
+
+ul#cat-menu-list {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+	align-items: flex-end;
+}
+
+a {
+	text-decoration: none;
+	color:inherit;
+}
+
+h2, h1 {
+
+	text-align: center;
+}
+
+h2 {
+	font-size: 0.75em;
+	font-weight: normal;
+}
+
+h1 {
+	font-size: 0.9em;
+	margin: 0px 0px 0px 10px;
+}
+
+h3 {
+	text-decoration: none;
+	margin: 12px;
+	color: red;
+	font-family: 'police2';
+	font-size: 3.6em;
+}
+
+.wimg {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: stretch;
+	flex-direction: row;
+}
+
+.wimg > a {
+	margin: 5px;
+	display: flex;
+	justify-content: flex-start;
+	flex-direction: row;
+	align-content: center;
+	align-items: center;
+	width: 100%;
+	transition-duration: 0.5s;
+	border-radius: 2px;
+}
+
+.wimg > a:hover img h1 {
+	background-color: #d9d9d9;
+	transition-duration: 0.2s;
+	transition-timing-function: ease-in-out; 
+	transform: translateX(0%);
+	color: black;
+}
+
+.wimg > a:hover {
+	transition-duration: 0.5s;
+	background-color: #d9d9d9;
+}
+
+.wimg img {
+	max-width: 100%;
+	display: block;
+	transition: 0.5s ease-in-out;
+	object-fit: cover;
+	max-height: 480px;
+}
+
+.wdesc {
+	color: #626262;
+	border-radius: 10px; /* Coins arrondis */
+	padding: 2px; /* Espacement intérieur */
+	font-size: 1.5em; /* Taille de la police */
+}
+
+.wdesc:hover {
+	color: #3d47b6; /* Couleur du texte au survol */
+	text-decoration: underline; /* Soulignement au survol */
+	transition-duration: 0.s; /* Durée de l'animation */
+	transition-timing-function: ease-in-out; /* Fonction de temporisation de l'animation */
+	padding: 2px; /* Espacement intérieur au survol (peut être redondant ici) */
+}
+
+
+.info p {
+	padding: 100px 250px;
+	text-align: justify;
+	color: darkgray;
+}
+
+
+.content-container {
+	flex: 1 0 auto;
+	min-height: 100vh;
+}
+
+
+
+@media only screen and (max-width: 880px) {
+	html, body {
+		font-size: 14px;
+	}
+
+	footer {
+		font-size: 1.2em; /* Réduction de la taille de la police */
+		border-radius: 5px; /* Réduction des coins arrondis */
+	}
+
+	footer:hover {
+		color: #3d47b6; /* Même couleur au survol */
+		/*		background-color: #e0e0e0;  Couleur de fond légèrement différente */
+	}
+
+
+
+	.main {
+		display: flex;
+		flex-direction: column;
+		align-content: stretch;
+		align-items: center;
+		font-family: 'atlas';
+		color: #626262;
+		margin: 10px;
+	}
+
+
+	.logo-image img {
+		width: 100%;
+		padding: 5px 0px 10px 0px;
+	}
+
+	.logo-image p {
+		font-size: 1.8em;
+	}
+
+	.home-image img {
+		width: 100%;
+	}
+
+	.t1 {
+		flex-direction: column;
+	}
+
+	.info p {
+		padding: 15px 20px;
+		text-align: justify;
+		font-size: 1.1em
+	}
+
+	#menu ul, #menu-author ul {
+		flex-direction: column;
+	}
+
+
+	#menu-cat ul {
+		display: flex;
+		justify-content: space-evenly;
+		align-items: flex-end;
+		margin: 0;
+		padding: 0;
+		list-style: none;
+		flex-wrap: wrap;
+		margin-bottom: 20px;
+		flex-direction: column;
+	}
+
+	.author-list,.list-ex {
+		width: 100%;
+	}
+
+	#menu a, #menu-author a,  {
+		display: block;
+		text-decoration: none;
+		transition-duration: 0.5s;
+		font-size: 1.3em;
+	}
+
+	#menu-cat a {
+		display: block;
+		text-decoration: none;
+		transition-duration: 0.5s;
+		padding: 1px;
+		font-size: 1.2em;
+	}
+
+
+
+	.wimg > a {
+		margin: 5px;
+		display: flex;
+		justify-content: space-evenly;
+		flex-direction: column;
+		align-content: center;
+		align-items: center;
+		width: 100%;
+	}
+
+	.wimg img {
+		/*		max-width: 100%;*/
+		display: block;
+		transition: 0.5s ease-in-out;
+		object-fit: cover;
+		/*		max-height: 200px;*/
+		width: 100%;
+		transform: translateX(0%);
+
+	}
+
+	#menu ul, #menu-author ul {
+		display: flex;
+		justify-content: space-evenly;
+		margin: 0;
+		padding: 0;
+		list-style: none;
+		flex-wrap: wrap;
+		margin-bottom: 20px;
+		flex-direction: row;
+		align-items: stretch;
+	}
+
+	#menu li, #menu-author li {
+		margin: 0 1px;
+		flex-grow: 1;
+		text-align: left;
+		color: transparent;
+		transition-duration: 0.5s;
+	}
+
+
+
+	h1, h2, h3 {
+		margin: 10px;
+	}
+
+	h2 {
+		font-size: 1em;
+	}
+
+	.wdesc {
+
+		font-size: 1.2em;
+	}
+
+
+}
+
+@font-face {
+	font-family: "atlas";
+	src: url("../static/font/BBBBaskervvol-Fondue.otf");
+}
+@font-face {
+	font-family: "776";
+	src: url("../static/font/MinionVariableConcept-Italic.otf");
+}
+
+@font-face {
+	font-family: "fanzine";
+	src: url("../static/font/HoeflerText-Italic-Swash.ttf");
+}

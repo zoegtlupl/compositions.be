@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="ie=edge">
+		<title>mon site</title>
+		<link rel="stylesheet" type="text/css" href="{{url_for('static', filename='style.css')}}">
+
+
+		<script src="{{ url_for('static', filename='js/vivus.min.js') }}"></script>
+		<script src="{{ url_for('static', filename='js/main.js') }}"></script>
+
+
+	</head>
+	<body>
+
+
+		{% include 'menu.html' %}
+
+		<h3> Nathan Prost</h3>
+
+
+
+		<div id="works">   
+
+			{% for a in articles %}
+			<div class="work">
+				<a href="{{ url_for('index', _external=False) }}{{ a.path }}">
+					<div class="wimg">
+						{% if a.cover %}
+						<img src="{{ url_for('static', filename='img/' + a.meta.cover) }}"/>
+						{% else %}
+						<img src="{{ url_for('static', filename='img/def.jpg') }}"/>
+						{% endif %}
+					</div>
+				</a>
+				<a href="{{ url_for('index', _external=False) }}{{ a.path }}">
+					<div class="wdesc">
+						<h2>{{a.meta.author}}</h2> 
+						<h1>{{a.title}}, <span class="year">{{a.meta.published.strftime('%Y')}}</span></h1>
+						<span class="desc">{{a.desc}}</span>
+						<i>{{a.meta.desc}}</i>
+						<!--						<h3>{{a.meta.published}}</h3>-->
+
+						<!--						<blockquote></blockquote>-->
+						<!--						<span class="categorie"><a href="{{ url_for('index', _external=False) }}cat/{{a.cat}}">{{a.cat}}</a></span>-->
+						<!--						<blockquote></blockquote>-->
+
+						<!--						<span class="date">{{a.published}}</span>-->
+
+					</div>
+				</a>
+			</div>
+			{% endfor %}
+		</div>
+
+
+
+	</body>
+
+
+</html>

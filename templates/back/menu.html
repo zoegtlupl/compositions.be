@@ -1,0 +1,25 @@
+<div id="menu">
+  <nav>
+    <ul>
+      <li>
+        <a class='home' href="/nathan-prost">Home</a>
+      </li>
+      <li>
+        <ul>
+ {% for cat in catList : %}
+		    <li><a href="{{ url_for('index', _external=False) }}/cat/{{cat}}">{{cat}}</a></li>
+                {% endfor %}
+
+                
+        </ul>
+      </li>
+           <li>
+        <a href="/nathan-prost/info">Info</a>
+      </li>
+    </ul>
+  </nav>
+</div>
+
+
+
+            

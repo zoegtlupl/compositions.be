@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="{{ url_for('static', filename='logo.png') }}">
+    <title>atlas</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="main">
+        <div class="logo-image">
+				<a href="http://compositions.be/" aria-label="Accueil">
+                <p>
+                    <span class="atlas">Atlas Collectif</span> X <span class="fanzine">Fanzines?festival</span>
+                </p>
+            </a>
+        </div>
+        <div class="3block">
+
+            <div class="author-page">
+                <div></div>
+                <div class="wimg">
+                    {% for a in articles %}
+                        <a href="{{ url_for('page', path=a.path) }}" class="article-link">
+                            {% if a.meta.cover %}
+                                <img src="{{ url_for('static', filename='img/' + a.meta.cover) }}" alt="Cover image for {{ a.title }}"/>
+                            {% else %}
+                                <img src="{{ url_for('static', filename='img/def.jpg') }}" alt="Default cover image"/>
+                            {% endif %}
+                            <div class="wdesc">
+                                <h1><i> {{ a.title }}, </i>{{ a.meta.desc }}</h1>
+                            </div>
+                        </a>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Scripts moved just before closing body tag -->
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</body>
+</html>

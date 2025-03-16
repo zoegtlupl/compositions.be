@@ -1,0 +1,7 @@
+<div id="menu-cat">
+	<ul>
+		{% for category in catList %}
+		<li><a href="{{ url_for('catPage', catname=category) }}">{{ category }}</a></li>
+		{% endfor %}
+	</ul>
+</div>

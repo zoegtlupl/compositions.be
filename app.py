@@ -7,7 +7,7 @@ FLATPAGES_EXTENSION = '.md'
 FLATPAGES_AUTO_RELOAD = True
 
 app = Flask(__name__)
-app.config['APPLICATION_ROOT'] = '/atlas-programation'
+app.config['APPLICATION_ROOT'] = '/compositions'
 BASE_DIR = os.path.abspath(os.path.dirname(__file__))
 FLATPAGES_MARKDOWN_EXTENSIONS = ['extra']
 FLATPAGES_EXTENSION_CONFIGS = {
@@ -86,6 +86,7 @@ def page(path):
         selectedAuthor = page.meta.get('author', '')
         selectedcat = page.meta.get('cat', '')
         articles = [p for p in pages if 'published' in p.meta]
+        articles = sorted(articles, key=lambda p: p.meta['published'], reverse=True)
         
         if imgs:
             return render_template('single.html', 
@@ -115,7 +116,7 @@ def info():
     try:
         page = pages.get_or_404('info')
         catList = Liste_cat()
-        return render_template('staticpage.html', page=page, catList=catList)
+        return render_template('single.html', page=page, catList=catList)
     except Exception as e:
         return str(e), 500
 
@@ -152,17 +153,20 @@ def serve_pages(path):
 def index():
     try:
         random_image = get_random_image()
-        articles = (p for p in pages if 'published' in p.meta)
+        articles = (p for p in pages if 'published' in p.meta and 'author' in p.meta and p.meta['author'].lower() == 'zoe')
         latest = sorted(articles, reverse=True, key=lambda p: p.meta['published'])
+        print(f"Nombres d'articles trouvés : {len(latest)}")
         catList = Liste_cat()
         authorsList = Liste_authors()
         return render_template('index.html', articles=latest, catList=catList, authorsList=authorsList, random_image=random_image)
     except Exception as e:
+        print(f"Erreur : {e}")
         return str(e), 500
+
 
 @app.errorhandler(404)
 def page_not_found(e):
     return "Problem", 404
 
 if __name__ == "__main__":
-    app.run(host='0.0.0.0', port=5001, debug=True)
+    app.run(host='0.0.0.0', port=5000, debug=True)

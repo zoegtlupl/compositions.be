@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="ie=edge">
+		<link rel="icon" href="/static/logo.jpg">
+		<title>Zoé Texte</title>
+		<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename= css_file) }}">
+
+	</head>
+	<body>
+
+		<div class="main">
+
+			<div class="logo-image">
+				<a href="http://compositions.be/" aria-label="Accueil">
+					<h1><span class="zoe">Compositions</span> </h1>
+					<div class="ellipse"></div>
+
+				</a>
+
+			</div>
+
+			<div class="article">				
+
+
+				<div class="wdesc">
+					<h4>{{page.title}}</h4>
+                    
+					<h5>{{page.published}}</h5>
+
+					{{page}}
+					
+				</div>
+
+				<div class="cartel">
+
+					<p> Pour réagir aux textes, pour en discuter, envoyez un mail à l'adresse: aazert.yuio@pqsdf.gh </p>
+
+					{% include 'menu-work.html' %}
+
+
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+			<script src="{{ url_for('static', filename='js/main.js') }}"></script>
+
+		</div>
+	</body>
+</html>

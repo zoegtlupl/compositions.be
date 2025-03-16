@@ -1,0 +1,18 @@
+<div id="menu-author">
+	<nav>
+		<div id="works">   
+			{% for article in articles %}
+			<div class="work">
+				<a href="{{ url_for('page', path=article.path) }}"></a>
+				<a href="{{ url_for('page', path=article.path) }}">
+					<div class="wdesc">
+						<!-- <h2>{{ article.meta.author }}</h2>-->
+						<h2>{{ article.title }}</h2>
+					</div>
+				</a>
+			</div>
+			{% endfor %}
+		</div>
+
+	</nav>
+</div>

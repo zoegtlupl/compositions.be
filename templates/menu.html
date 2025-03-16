@@ -1,0 +1,16 @@
+<div id="menu">
+    <nav>
+        <ul>
+            <li>
+                <div class="t1"></div>
+                <ul id="cat-menu-list">
+                    {% for cat in catList %}
+                    <li>
+                        <a href="{{ url_for('index', _external=False) }}cat/{{cat}}">{{cat}}</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </li>
+        </ul>
+    </nav>
+</div>
