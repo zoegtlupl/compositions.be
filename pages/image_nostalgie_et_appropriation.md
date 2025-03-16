@@ -31,27 +31,27 @@ Dans les arts, il est courant de se retrouver face à des références à un pas
 Pour préciser, je ne signifie pas que tous·tes les artistes que je vais citer ici ont réutilisé ou se sont réapproprié des images existantes par nostalgie ou pour faire persister une survivance du passé, mais je pense que cela participe à la tendance commune à la nostalgie et à la glorification du passé. Par glorification, on peut aussi entendre dramatisation, dans le sens où les événements tragiques ne sont pas lus, ou compris, comme des victoires, mais ils tendent à être mis en scène, de par leur manière d’être raconté. Quand Baselitz (ou d’autres artistes allemands, on peut aussi penser à Anselm Kieffer) peint le passé dans sa manière violente qui lui est propre, il nous offre une lecture de l’histoire qui est très sombre et tâchée, et donc très dramatisée, n’offrant, comme expliqué plus tôt, qu’un pan des événements et des situations qui se sont déroulés, et donc plutôt que de peindre l’ « histoire », il peindrait plutôt son rapport à l’histoire. Si on se tourne du côté du continent nord-américain, il semble que la réappropriation d’image se détourne de l’histoire tragique, se penchant plus peut-être sur les histoires individuelles et quotidiennes, marquées par les manières de consommer. 
 <br>
 
-***![Fig.1](https://image.over-blog.com/pNl4N6SyyAiLwhybgSg6PmkNAsY=/filters:no_upscale()/image%2F0931608%2F20211109%2Fob_4ffef7_die-grosse-nacht-im-eimer-19.jpg) Fig. 1. Frank Stella, Nunca Passa Nada, 1964. Metallic powder in acrylic emulsion on canvas. Dimentions: 9 x 18 feet. Private collection, courtesy of Leo Castelli Gallery, New York.***
+*![Fig.1](https://image.over-blog.com/pNl4N6SyyAiLwhybgSg6PmkNAsY=/filters:no_upscale()/image%2F0931608%2F20211109%2Fob_4ffef7_die-grosse-nacht-im-eimer-19.jpg) Fig. 1. Frank Stella, Nunca Passa Nada, 1964. Metallic powder in acrylic emulsion on canvas. Dimentions: 9 x 18 feet. Private collection, courtesy of Leo Castelli Gallery, New York.*
 
-***![Fig.2](https://www.thebroad.org/sites/default/files/styles/webp_convert_only/public/art/kiefer_nurnberg.jpg.webp?itok=O_86irXG) Fig. 1. Frank Stella, Nunca Passa Nada, 1964. Metallic powder in acrylic emulsion on canvas. Dimentions: 9 x 18 feet. Private collection, courtesy of Leo Castelli Gallery, New York.***
+*![Fig.2](https://www.thebroad.org/sites/default/files/styles/webp_convert_only/public/art/kiefer_nurnberg.jpg.webp?itok=O_86irXG) Fig. 1. Frank Stella, Nunca Passa Nada, 1964. Metallic powder in acrylic emulsion on canvas. Dimentions: 9 x 18 feet. Private collection, courtesy of Leo Castelli Gallery, New York.*
 
 
-Je crois que Koons a un rapport assez fort à la nostalgie. Quand il réutilise des objets (ce serait plus juste de parler de « biens de consommation » dans son cas) du quotidien, d’un quotidien passé (les ballons, les aspirateurs, etc), il nous parle et nous rappelle naïvement ce qu’on a vécu ou qu’on a pas vécu mais qu’on a vu. Jeff Koons se situe dans une esthétique néo-pop, il se réapproprie souvent l’imagerie populaire américaine, l’imagerie marchande. Le surplus d’image dans nos sociétés contemporaines sont souvent érigée en trois dimension à travers sa pratique, par exemple dans *Fait d’hiver* (1988). Cependant, il a aussi réutilisé des images analogiques trouvées, comme des publicités, notamment au New Museum, où il expose *New ! New Too !* (1983), reprenant exactement les panneaux publicitaires de l’époque. Il poursuit dans cette esthétique quelques années plus tard avec *Art Magazine Ads* (1988-1989), qui sont des compositions photographiques que l’on pourrait retrouver directement dans des magazines d’actualité d’art (ce qu’on aura compris par le titre de l’oeuvre). Koons est souvent perçu comme un personnage cynique, comme si personne ne comprenait vraiment ce qu’il voulait signifier dans ses oeuvres, alors qu’il me semble que c’est explicitement littéral ; il nous montre ce qu’on veut voir ; des objets du passé, parce que ce qu’on aime, c’est souvent ce qu’on connaît déjà, et on est tous·tes·x rattaché à ce sentiment de nostalgie, ravivé par ces objets qu’on n’utilise plus. 
+Je crois que Koons a un rapport assez fort à la nostalgie. Quand il réutilise des objets (ce serait plus juste de parler de « biens de consommation » dans son cas) du quotidien, d’un quotidien passé (les ballons, les aspirateurs, etc), il nous parle et nous rappelle naïvement ce qu’on a vécu ou qu’on a pas vécu mais qu’on a vu. Jeff Koons se situe dans une esthétique néo-pop, il se réapproprie souvent l’imagerie populaire américaine, l’imagerie marchande. Le surplus d’image dans nos sociétés contemporaines sont souvent érigée en trois dimension à travers sa pratique, par exemple dans *Fait d’hiver* (1988). Cependant, il a aussi réutilisé des images analogiques trouvées, comme des publicités, notamment au New Museum, où il expose *New ! New Too !* (1983), reprenant exactement les panneaux publicitaires de l’époque. Il poursuit dans cette esthétique quelques années plus tard avec *Art Magazine Ads* (1988-1989), qui sont des compositions photographiques que l’on pourrait retrouver directement dans des magazines d’actualité d’art (ce qu’on aura compris par le titre de l’œuvre). Koons est souvent perçu comme un personnage cynique, comme si personne ne comprenait vraiment ce qu’il voulait signifier dans ses œuvres, alors qu’il me semble que c’est explicitement littéral ; il nous montre ce qu’on veut voir ; des objets du passé, parce que ce qu’on aime, c’est souvent ce qu’on connaît déjà, et on est tous·tes·x rattaché à ce sentiment de nostalgie, ravivé par ces objets qu’on n’utilise plus. 
 <br>
-***![Fig.3](https://uploads8.wikiart.org/00422/images/jeff-koons/2b7865b24dcf3607037b8fba6936c933-f713.jpg!Large.jpg) Fig. 1. Frank Stella, Nunca Passa Nada, 1964. Metallic powder in acrylic emulsion on canvas. Dimentions: 9 x 18 feet. Private collection, courtesy of Leo Castelli Gallery, New York.***
+*![Fig.3](https://uploads8.wikiart.org/00422/images/jeff-koons/2b7865b24dcf3607037b8fba6936c933-f713.jpg!Large.jpg) Fig. 1. Frank Stella, Nunca Passa Nada, 1964. Metallic powder in acrylic emulsion on canvas. Dimentions: 9 x 18 feet. Private collection, courtesy of Leo Castelli Gallery, New York.*
 
-***![Fig.4](https://uploads8.wikiart.org/00422/images/jeff-koons/large-the-new-e-2013-0023-new-new-too.jpg!Large.jpg) Fig. 1. Frank Stella, Nunca Passa Nada, 1964. Metallic powder in acrylic emulsion on canvas. Dimentions: 9 x 18 feet. Private collection, courtesy of Leo Castelli Gallery, New York.***
+*![Fig.4](https://uploads8.wikiart.org/00422/images/jeff-koons/large-the-new-e-2013-0023-new-new-too.jpg!Large.jpg) Fig. 1. Frank Stella, Nunca Passa Nada, 1964. Metallic powder in acrylic emulsion on canvas. Dimentions: 9 x 18 feet. Private collection, courtesy of Leo Castelli Gallery, New York.*
 
-***![Fig.4](https://media.tate.org.uk/art/images/work/AR/AR00081_10.jpg) Fig. 1. Frank Stella, Nunca Passa Nada, 1964. Metallic powder in acrylic emulsion on canvas. Dimentions: 9 x 18 feet. Private collection, courtesy of Leo Castelli Gallery, New York.***
+*![Fig.4](https://media.tate.org.uk/art/images/work/AR/AR00081_10.jpg) Fig. 1. Frank Stella, Nunca Passa Nada, 1964. Metallic powder in acrylic emulsion on canvas. Dimentions: 9 x 18 feet. Private collection, courtesy of Leo Castelli Gallery, New York.*
 
 
-Dans les années septante, on témoigne d’un nouveau courant artistique, l’appropriationnisme, qui consiste en lui-même à la ré-appropriation d’images connues. Cela peut concerner l’imagerie populaire (publicité, magazines, média audio-visuels, …) ou des oeuvres d’artistes reconnu.es.x. On peut envisager Duchamp comme un pionnier, il avait déjà réutilisé *La Joconde* dans *L.H.O.O.Q.* (1919), mais à l’initiative de ce mouvement, on considèrera davantage Elaine Sturtevant. 
+Dans les années septante, on témoigne d’un nouveau courant artistique, l’appropriationnisme, qui consiste en lui-même à la ré-appropriation d’images connues. Cela peut concerner l’imagerie populaire (publicité, magazines, média audio-visuels, …) ou des œuvres d’artistes reconnu.es.x. On peut envisager Duchamp comme un pionnier, il avait déjà réutilisé *La Joconde* dans *L.H.O.O.Q.* (1919), mais à l’initiative de ce mouvement, on considèrera davantage Elaine Sturtevant. 
 <br>
 
-***![Fig.4](https://www.singulart.com/blog/wp-content/uploads/2020/05/lhooq.jpg) Fig. 1. Frank Stella, Nunca Passa Nada, 1964. Metallic powder in acrylic emulsion on canvas. Dimentions: 9 x 18 feet. Private collection, courtesy of Leo Castelli Gallery, New York.***
+*![Fig.4](https://www.singulart.com/blog/wp-content/uploads/2020/05/lhooq.jpg) Fig. 1. Frank Stella, Nunca Passa Nada, 1964. Metallic powder in acrylic emulsion on canvas. Dimentions: 9 x 18 feet. Private collection, courtesy of Leo Castelli Gallery, New York.*
 
 
-Sturtevant, artiste américaine, copiait les oeuvres d’hommes artistes célèbres, plus âgés et plus connus qu’elle. Elle s’appropriait alors des figures qui dominaient l’espace culturel américain des années septante, tel que Warhol. On peut aussi s’intéresser à Sherrie Levine, qui elle se penche directement sur la notion de reproduction, où elle photographiait les photographies de Walker Evans, pour ensuite les présenter dans ses expositions, toujours en citant l’artiste. Ces pratiques de ré-utilisation d’oeuvres ne sont pas du plagiat (les artistes des oeuvres originales sont à chaque fois cités) mais pose quand même la question de la propriété artistique et intellectuelle. 
+Sturtevant, artiste américaine, copiait les oeuvres d’hommes artistes célèbres, plus âgés et plus connus qu’elle. Elle s’appropriait alors des figures qui dominaient l’espace culturel américain des années septante, tel que Warhol. On peut aussi s’intéresser à Sherrie Levine, qui elle se penche directement sur la notion de reproduction, où elle photographiait les photographies de Walker Evans, pour ensuite les présenter dans ses expositions, toujours en citant l’artiste. Ces pratiques de ré-utilisation d’œuvres ne sont pas du plagiat (les artistes des œuvres originales sont à chaque fois cités) mais pose quand même la question de la propriété artistique et intellectuelle. 
 
 La volonté de Levine est de montrer qu’elle est arrivée « trop tard ». Ceci résonne avec les auteurs (Aron, Fukuyama et Kojève) que j’ai cité plus haut qui s’expriment sur la « fin de l’histoire ». Elle s’autorise des retours possibles dans l’histoire, dans les moments où les grands événements étaient encore possibles, où les mythologies se composaient. Ceci accompagne Barthes et sa théorie de la mort de l’auteur ; les oeuvres ne sont plus des propriétés exclusives de leur créateur·ice·x mais sont partagées avec les lecteur·ices·x (ou les consommateur/spectateur·ices·x, …). Levine, en se réappropriant l’oeuvre d’autres hommes, pousse plus loin la réflexion de la relation oeuvre-artiste-spectateur.ices, en ajoutant un nouveau facteur, une nouvelle perspective ; la sienne. Cette position qu’elle prend questionne l’autorité patriarcale des artistes qu’elle choisit pour recopier leurs oeuvres. Elle devient une sorte de filtre, offrant une nouvelle lecture à une oeuvre, se situant en plein milieu de la relation triangulaire ordinaire. 
 
@@ -61,15 +61,15 @@ Richard Prince, aussi issu de l’appropriationnisme, use des images populaires 
 Prince a notamment reproduit une photographie de l’actrice Brook Shield (il a récupéré l’image et l’a tiré dans un format plus grand). Brook Shield fût photographiée par Gary Gross pour un magazine lorsqu’elle avait 10 ans. Le photographe lui a fait prendre une pose suggestive, rappelant les codes de la pornographie. Le cliché témoigne de la démocratisation de la sexualisation de la figure de la jeune fille, personne ne s’étonnant du résultat de l’image. Prince choisit de se l’approprier puis d’exposer cette image dans un lieu spécialisé, payant, où la photographie est l’unique pièce présentée. Shield finit par réussir à se réapproprier ses droits d’images et empêcher l’exposition de cette photographie. L’artiste semble s’être rendu compte de son manque d’éthique quelques années plus tard, car il photographia Shield en 2005, lui permettant de se ré-emparer de son image (*Spiritual America 4*). Sur celle-ci, Shield reprend sa pose de l’époque, mais en tant que femme, et non petite fille.
 <br>
 
-***![Fig.4](https://news.artnet.com/app/news-upload/2020/11/Sturtevant-001.jpg)  Fig. 1. Frank Stella, Nunca Passa Nada, 1964. Metallic powder in acrylic emulsion on canvas. Dimentions: 9 x 18 feet. Private collection, courtesy of Leo Castelli Gallery, New York.***
+*![Fig.4](https://news.artnet.com/app/news-upload/2020/11/Sturtevant-001.jpg)  Fig. 1. Frank Stella, Nunca Passa Nada, 1964. Metallic powder in acrylic emulsion on canvas. Dimentions: 9 x 18 feet. Private collection, courtesy of Leo Castelli Gallery, New York.*
 
-***![Fig.4](https://lesoeuvres.pinaultcollection.com/media/styles/ex_v/s3/art/10444_visuel_REF_STURTEVANT_Duchamp1200CoalBags.jpg?itok=eKg_xPLL) Fig. 1. Frank Stella, Nunca Passa Nada, 1964. Metallic powder in acrylic emulsion on canvas. Dimentions: 9 x 18 feet. Private collection, courtesy of Leo Castelli Gallery, New York.***
+*![Fig.4](https://lesoeuvres.pinaultcollection.com/media/styles/ex_v/s3/art/10444_visuel_REF_STURTEVANT_Duchamp1200CoalBags.jpg?itok=eKg_xPLL) Fig. 1. Frank Stella, Nunca Passa Nada, 1964. Metallic powder in acrylic emulsion on canvas. Dimentions: 9 x 18 feet. Private collection, courtesy of Leo Castelli Gallery, New York.*
 
-***![Fig.4](https://whitneymedia.org/assets/artwork/10247/96_2_cropped.jpeg) Fig. 1. Frank Stella, Nunca Passa Nada, 1964. Metallic powder in acrylic emulsion on canvas. Dimentions: 9 x 18 feet. Private collection, courtesy of Leo Castelli Gallery, New York.***
+*![Fig.4](https://whitneymedia.org/assets/artwork/10247/96_2_cropped.jpeg) Fig. 1. Frank Stella, Nunca Passa Nada, 1964. Metallic powder in acrylic emulsion on canvas. Dimentions: 9 x 18 feet. Private collection, courtesy of Leo Castelli Gallery, New York.*
 
-***![Fig.4](https://www.artgallery.nsw.gov.au/media/collection_images/1/199.2021%23%23S.jpg) Fig. 1. Frank Stella, Nunca Passa Nada, 1964. Metallic powder in acrylic emulsion on canvas. Dimentions: 9 x 18 feet. Private collection, courtesy of Leo Castelli Gallery, New York.***
+*![Fig.4](https://www.artgallery.nsw.gov.au/media/collection_images/1/199.2021%23%23S.jpg) Fig. 1. Frank Stella, Nunca Passa Nada, 1964. Metallic powder in acrylic emulsion on canvas. Dimentions: 9 x 18 feet. Private collection, courtesy of Leo Castelli Gallery, New York.*
 
-***![Fig.4](https://elephant.art/wp-content/uploads/2020/04/RP-Spiritual-America-IV-2005_hi-res.jpg) Fig. 1. Frank Stella, Nunca Passa Nada, 1964. Metallic powder in acrylic emulsion on canvas. Dimentions: 9 x 18 feet. Private collection, courtesy of Leo Castelli Gallery, New York.***
+*![Fig.4](https://elephant.art/wp-content/uploads/2020/04/RP-Spiritual-America-IV-2005_hi-res.jpg) Fig. 1. Frank Stella, Nunca Passa Nada, 1964. Metallic powder in acrylic emulsion on canvas. Dimentions: 9 x 18 feet. Private collection, courtesy of Leo Castelli Gallery, New York.*
 
 
 On peut ici s’interroger sur ce qu’implique l’appropriation d’image, par rapport à quelle image il s’agit, qui se la ré-approprie, la manière dont ça a été fait. Concernant Sturtevant et Levine, on s’attaque à la question spécifique de la signature et de la notoriété d’artistes, qui ont des places pré-dominantes dans l’espace artistique (et qui sont encore des emblèmes aujourd’hui). Elles interrogent la figure de l’artiste, de l’auteur et de leur autorité. Levine écrit notamment qu’elle « essaye de faire un art qui célèbre le doute et l’incertitude. Qui provoque des réponses mais qui ne les donne pas. Qui repousse le sens absolu en y incorporant des significations parasites. Qui suspende le sens en vous renvoyant constamment à l’interprétation, en vous poussant au-delà du dogmatisme, au-delà de la 'doxa', au-delà de l’idéologie, au-delà de l’autorité. ». Levine se positionne face à des images, des autorités donc, qu’elles tentent de dépasser ; c’est une position différente qui est à prendre dans l’espace artistique. Nicolas Bourriaud, critique d’art, montre que la question à se poser désormais, lorsqu’on produit des images par rapport au réel existant, n’est plus « comment fait-on pour tout reconstruire ? » (par rapport à l’interrogation postmoderne ; comment repartir à zéro après toutes les horreurs du XXe siècle ?) mais « comment peut-on mieux habiter ce dont nous héritons ? ». Ces questions n’ont pas été formulées directement pour le contexte des années septante, mais peuvent tout de même résonner avec l’acte de s’approprier des images. Les quatre artistes cités offrent un nouveau regard vis-à-vis de ces héritages, soit en donnant au quotidien (même problématique) l’accès aux galeries, soit en ajoutant une troisième perspective à une œuvre. 
@@ -79,7 +79,7 @@ Aujourd’hui, la réutilisation d’images est une pratique hyper-répandue,  e
 
 <hr>
 
-<u>*Bibliographie*</u>
+## <u>*Bibliographie*</u>
 <br>
 Aron, R. *Dix-huit leçons sur la société industrielle*, 1962.
 <br>
@@ -87,22 +87,26 @@ Barthes, R. *La mort de l’auteur*, 1967.
 <br>
 Berliner, D. *Perdre sa culture*, 2018. 
 <br>
-
 Berliner, D. « Are Anthropologist Nostalgist ? », In *Anthropology and Nostalgia*, 2014.
-
+<br>
 Bourdieu, P. *La distinction*, 1979.
-
+<br>
 Bourriaud, N. *Postproduction, La culture comme scénario : comment l'art reprogramme le monde contemporain*, 2004
-
+<br>
 Final Girl Digital, *Capitalist Necromancy: The Danger of Nostalgia as Merchandise*, [Vidéo], 2024.
-
+<br>
 Fukuyama, F. *La Fin de l’histoire et de Dernier Homme*, 1990.
-
+<br>
 Hegel, G., W., F. *La raison dans l’histoire*, 1965.
-Kaplan, L. *Koons and Nostalgia* [~[artsy.net](http://artsy.net)~]([https://www.artsy.net/article/laurenalbie-koons-and-nostalgia](https://www.artsy.net/article/laurenalbie-koons-and-nostalgia)), 2014. 
+<br>
+Kaplan, L. *Koons and Nostalgia*, [artsy.net](https://www.artsy.net/article/laurenalbie-koons-and-nostalgia), 2014. 
+<br>
 Kojève, A. *Introduction à la Lecture de Hegel*, 1971.
+<br>
 Lévi-Strauss, C. *La Pensée Sauvage*, 1962.
+<br>
 Lévi-Strauss, C. *Race et Histoire*, 2002.
+<br>
 Von Herder, J., G. *Une autre philosophie de l’Histoire*, 1774. 
 
 <u>*Oeuvres citées*</u>
