@@ -20,6 +20,9 @@ L’anthropologue Philippe Descola, qui nous introduit à l’anthropologie du p
 
 ## [Twilight | ContraPoints](https://www.youtube.com/watch?v=bqloPw5wp48){:target="_blank"}
 
+Natalie Wynn se décrit comme ex-philosophe. Ici, en analysant les relations entre les personnages de Twilight, elle réfléchit aux différents systèmes qui organisent nos relations amoureuses et sexuelles. 
+
+
 
 ## [Les Hétérotopies – Michel Foucault (1966) à Radio Feature, 23 minutes](https://www.youtube.com/watch?v=lxOruDUO4p8){:target="_blank"}
 
@@ -54,7 +57,7 @@ votent pas.
 
 # Articles
 
-## ["Comment on juge l’asile, L’institution comme agent moral » - Didier Fassin & Carolina Kobelinsky" (2012), 31 pages](https://www.cairn.info/revue-francaise-de-sociologie-1-2012-4-page-657.htm){:target="_blank"}
+## ["Comment on juge l’asile, L’institution comme agent moral" - Didier Fassin & Carolina Kobelinsky (2012), 31 pages](https://www.cairn.info/revue-francaise-de-sociologie-1-2012-4-page-657.htm){:target="_blank"}
 
 Enquête de terrain sur les raisons et les motivations pour lesquelles les magistrat.e.s.x attribuent ou non l’asile aux personnes qui ont fuit leur pays et demandent l’asile politique
 en France.
@@ -62,17 +65,28 @@ en France.
 
 ## ["Du corps humain comme marchandise, Mythe primitiviste et harcèlement photographique dans la vallée de l’Omo, Éthiopie" – Serge Tornay (2009), 13 pages](https://shs.cairn.info/revue-afrique-et-histoire-2009-1-page-331?lang=fr){:target="_blank"}
 
-Tornay analyse la manière des « explorateu ces » de promouvoir certaines régions du
+Tornay analyse la manière des « explorateur..ices » de promouvoir certaines régions du
 monde par la photographie, dans un esprit néocolonial et peu remis en question.
 Tornay tient aussi à montrer comment les modèles gardent une certaine agentivité,
-malgré la domination qui est exercée sur ell x par les touristes blan es .
+malgré la domination qui est exercée sur ell x par les touristes blanc..ches .
+
 
 ## ["Les femmes musulmanes et le « droit de choisir librement »" - Lila Abu-Lughod (2018), 23 pages](https://www.erudit.org/fr/revues/as/2018-v42-n1-as03619/1045123ar/){:target="_blank"}
 
 À travers le cliché des femmes musulmanes qui ne peuvent pas choisir librement du
 port du voile, Abu-Lughod déconstruit la supposée injonction qui serait réalisée sur ces
 femmes et nous parle plus généralement de la notion de choix et de consentement,
-illusoire dans le néolibéralisme
+illusoire dans le néolibéralisme.
+
+
+## [Le semi-colonialisme financier. Extrait du cours d'Introduction à l'histoire du capitalisme - Simon Watteyne (2025, ULB)] (page non référencée)
+
+Je trouve que cet extrait de cours est intéressant pour comprendre pourquoi on parle, et pourquoi il y a des "pays émergents" (économiquement parlant) en lien avec le colonialisme des empires du XIXe siècle. 
+
+
+## [Scènes électroniques "post-Internet" : des problèmes de mémoire, In *Audimat*, vol. 14 - Rafael Lubner (2020), 32 pages.](https://drive.google.com/drive/u/0/folders/1oIExzL-_fYQ6PeipattEKD7dM_MfYSF2)
+
+Cet article de Lubner dans Audimat tente une "compréhension de fond des structures de domination, et de la façon dont certains journalistes et artistes y contribuent plus ou moins volontairement, même quand il s'agit d'adopter une posture critique ou de formuler un point de vue minoritaire", à travers PC Music, Elysia Crampton, Slikback, …
 
 
 
