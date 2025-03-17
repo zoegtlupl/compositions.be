@@ -109,16 +109,28 @@ Lévi-Strauss, C. *Race et Histoire*, 2002.
 <br>
 Von Herder, J., G. *Une autre philosophie de l’Histoire*, 1774. 
 
-<u>*Oeuvres citées*</u>
+## <u>*Oeuvres citées*</u>
+<br>
 Baselitz, G. *Die große Nacht im Eimer [La Grande Nuit foutue]*, 1962-1963
+<br>
 Duchamp, M. *L.H.O.O.Q.*, 1919.
+<br>
 Kiefer, A. *Nürnberg*, 1982.
+<br>
 Koons, J. *New ! New too!*, 1983.
+<br>
 Koons, J. *Art Magazine Ads*, 1988-1989.
+<br>
 Koons, J. *Fait d’hiver*, 1988.
+<br>
 Levine, S. *Série After Walker Evans*, 1981.
+<br>
 Prince, R. *Spiritual America*, 1983.
+<br>
 Prince, R. *Série Cowboy*, 1989
+<br>
 Prince, R. *Spiritual America IV*, 2005.
+<br>
 Sturtevant, E. *Warhol’s Marilyn Monroes*, 1967.
+<br>
 Sturtevant, E. *Duchamp 1200 Coal Bags*, 1973-1992.
