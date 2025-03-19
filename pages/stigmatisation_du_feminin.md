@@ -1,4 +1,4 @@
-title: Être une femme sous le stigmate de Goffman
+title: Stigmatisation du féminin
 published: 2024-07-15
 author: zoe
 cat: none
