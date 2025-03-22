@@ -312,10 +312,10 @@ p a {
 
 
 p img {
-display: block;
-    margin: 0 auto;
-    max-width: 60vw;
-  
+	display: block;
+	margin: 0 auto;
+	max-width: 60vw;
+
 }
 
 strong {
@@ -467,7 +467,7 @@ em video {
 		translate: 0vw;
 
 	}
-	
+
 	p img {
 		display: block;
 		max-width: max-content;
@@ -498,6 +498,15 @@ em video {
 		font-size: 1.6em;
 	}
 
+	h5 {
+		font-size: 1em;
+	}
+
+	h2 {
+		font-size: 1.2em;
+		translate: 0px
+	}
+
 
 
 	p:not(:has(img)) {
@@ -516,7 +525,8 @@ em video {
 
 	h4 {
 
-		margin: 0px 0px 20px;
+		margin: 0px 0px 13px;
+		text-align: left;
 	}
 
 	/* Cartel */
