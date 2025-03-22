@@ -312,10 +312,10 @@ p a {
 
 
 p img {
-	display: block;
-	margin: 0 auto;
-	/*	max-width: 100%;*/
-	height: 75vh;
+display: block;
+    margin: 0 auto;
+    max-width: 60vw;
+  
 }
 
 strong {
@@ -467,6 +467,11 @@ em video {
 		translate: 0vw;
 
 	}
+	
+	p img {
+		display: block;
+		max-width: max-content;
+	}
 
 	/* Style pour les paragraphes qui contiennent un élément <strong> */
 	p:has(strong) {
@@ -511,12 +516,12 @@ em video {
 
 	h4 {
 
-		margin: 0px 0px 50px;
+		margin: 0px 0px 20px;
 	}
 
 	/* Cartel */
 	.cartel {
-		width: 100%;
+		width: 95%;
 		display: flex;
 		flex-direction: column;
 		align-items: stretch;
@@ -530,7 +535,7 @@ em video {
 
 	.cartel p {
 		transform: translateY(0vh);
-		font-size: 0.8em;
+		font-size: 0.9em;
 	}
 
 	h2 {
