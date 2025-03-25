@@ -46,6 +46,5 @@ Ces manifestations se placent sous l'hétérotopie dans le fait qu'elles se dér
 Il me paraît alors que la communauté otaku a pu développer ses propres hétérotopies afin de concrétiser un mode de vie otakiste, où i·els󵜀 sont étiquetés comme dévian󴤐s󵜀, mais par l'établissement d'une carrière dans leur communauté (voir graphique), sont intégrés socialement dans un groupe. Il était peut-être nécessaire pour l'otakisme, très lié à l'imaginaire, de se retrouver dans ces endroits précis (virtuels ou réels), où les fantasmes peuvent se permettre de dicter les normes et les règles sociales.
 <br>
 
-
-<img src="static/img/zoe-otaku-basker.jpg">
+*<img src="static/img/zoe-otaku-basker.jpg">*
 

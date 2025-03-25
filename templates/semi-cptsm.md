@@ -1,4 +1,3 @@
-# 
 title: Le semi-colonialisme financier
 published: 2025-03-15
 author: zoe

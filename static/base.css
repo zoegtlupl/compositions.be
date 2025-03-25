@@ -7,9 +7,9 @@ body {
 
 
 .logo-image {
-/*
+	/*
 	padding: 0px 0px 0px 18px;
-*/
+	*/
 
 }
 
@@ -20,12 +20,18 @@ body {
 	font-size: 0.7em;
 	background-image: url(img/ellipse.png);
 	background-repeat: no-repeat;
-	background-size: 50%;
+	background-size: 40%;
 	background-position: right;
-/*
+	/*
 	padding: 10px;
-*/
+	*/
 	display: inline-block;
+}
+
+
+.zoe:hover {
+
+	color: #3d47b6
 }
 
 
@@ -415,7 +421,7 @@ em video {
 		background-size: contain;
 		background-position: center;
 		padding: 10px;
-		
+
 		overflow: hidden; /* Coupe tout débordement interne */
 	}
 

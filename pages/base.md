@@ -79,7 +79,7 @@ femmes et nous parle plus généralement de la notion de choix et de consentemen
 illusoire dans le néolibéralisme.
 
 
-## [Le semi-colonialisme financier. Extrait du cours d'Introduction à l'histoire du capitalisme - Simon Watteyne (2025, ULB)] (page non référencée)
+## [Le semi-colonialisme financier. Extrait du cours d'Introduction à l'histoire du capitalisme - Simon Watteyne (2025, ULB)](http://hist-s101.compositions.be/le-semi-colonialisme-financier)
 
 Je trouve que cet extrait de cours est intéressant pour comprendre pourquoi on parle, et pourquoi il y a des "pays émergents" (économiquement parlant) en lien avec le colonialisme des empires du XIXe siècle. 
 

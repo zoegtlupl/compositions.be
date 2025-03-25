@@ -74,6 +74,11 @@ footer:hover {
 	display: inline-block;
 }
 
+.zoe:hover {
+
+	color: #3d47b6
+}
+
 .circle {
 	position: absolute;
 	top: -20px;
