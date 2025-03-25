@@ -315,6 +315,7 @@ p img {
 	display: block;
 	margin: 0 auto;
 	max-width: 60vw;
+	/*max-height: 70vh;*/
 
 }
 
@@ -471,6 +472,7 @@ em video {
 	p img {
 		display: block;
 		max-width: max-content;
+		
 	}
 
 	/* Style pour les paragraphes qui contiennent un élément <strong> */
