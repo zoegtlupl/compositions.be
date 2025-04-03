@@ -38,7 +38,7 @@ tendance à sociabiliser avec les personnes de la communauté, ou avec les alli�
 Ensuite, évidemment, les manières (et les techniques sûrement) de draguer,
 d’aimer, de faire l’amour sont différentes, mais les manières de percevoir et d’envisager
 le corps des personnes socialisées comme femme, on l’a vu notamment dans la
-composition précédente (« [Être une femme sous le stigmate de Goffman](Z-002) »), n’est pas
+composition précédente (« [Stigmatisation du féminin](stigmatisation_du_feminin) »), n’est pas
 forcément distincte cognitivement.
 
 L’étude de Barbara Fredrickson et de Tomi-Ann Roberts a montré que
