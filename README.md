@@ -5,7 +5,7 @@ Ce mettre à l'adresse où le .git se trouve (dossier compositions.be>)
 
 - Pour mettre à jour avant de pusher ça version
 	
-	git pull
+-	git pull
 
 - Une fois à jour pour pusher ses changements
 
