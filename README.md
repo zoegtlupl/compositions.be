@@ -23,11 +23,11 @@ Puis
 
 Commande pour bash pour se déplacer dans le terminal
 
-- Pour de changer de dossier!
+Pour de changer de dossier!
 
 	 cd nomdudossieroujeveuxaller 
 
-- Pour revenir un dossier plus haut
+Pour revenir un dossier plus haut
 
 	 cd.. 
 
