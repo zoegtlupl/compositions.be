@@ -1,5 +1,6 @@
 # compositions.be
 
+## Commande Git
 
 Ce mettre à l'adresse où le .git se trouve (dossier compositions.be)
 
@@ -18,6 +19,7 @@ Puis
 
 	git push
 
+## Commande bash
 
 Commande pour bash pour se déplacer dans le terminal
 
