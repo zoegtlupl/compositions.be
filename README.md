@@ -2,7 +2,7 @@
 
 ## Commande Git
 
-Ce mettre à l'adresse où le .git se trouve (dossier compositions.be)
+Ce mettre à l'adresse où le **.git** se trouve (dossier compositions.be)
 
 Pour mettre à jour avant de pusher ça version
 	
@@ -23,11 +23,11 @@ Puis
 
 Commande pour bash pour se déplacer dans le terminal
 
-Pour de changer de dossier
+- Pour de changer de dossier!
 
 	 cd nomdudossieroujeveuxaller 
 
-Pour revenir un dossier plus haut
+- Pour revenir un dossier plus haut
 
 	 cd.. 
 
@@ -35,7 +35,7 @@ Pour lister les fichiers dans un dossier
 
 	 ls
 
-Pour lister les fichiers dans un dossier même ceux qui commence par . comme .git
+Pour lister les fichiers dans un dossier même ceux qui commence par **.** comme **.git**
 
 	 ls -a
 
