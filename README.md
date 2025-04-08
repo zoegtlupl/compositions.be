@@ -19,5 +19,29 @@ Puis
 	git push
 
 
+Commande pour bash pour se déplacer dans le terminal
+
+Pour de changer de dossier
+
+	 cd nomdudossieroujeveuxaller 
+
+Pour revenir un dossier plus haut
+
+	 cd.. 
+
+Pour lister les fichiers dans un dossier
+
+	 ls
+
+Pour lister les fichiers dans un dossier même ceux qui commence par . comme .git
+
+	 ls -a
+
+
+
+
+
+
+
 
 
