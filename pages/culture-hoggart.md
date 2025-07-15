@@ -1,4 +1,4 @@
-title: la notion de culture chez Richard Hoogart
+title: La notion de culture chez Richard Hoogart
 published: 2024-12-15
 author: zoe
 cat: default
@@ -16,7 +16,7 @@ Dans _La culture du pauvre_, Hoggart oppose la culture populaire à la culture d
 ---
 
 ## Bibliographie
-
+<br>
 Adorno, T. W., Horkheimer, M. (1940). _Dialectique de la Raison_. Paris, Éditions Gallimard.
 <br>
 Anthias, F. (2001). The Concept of  'Social Division' and Theorising Social Stratification: Looking at Ethnicity and Class. _Sociology_

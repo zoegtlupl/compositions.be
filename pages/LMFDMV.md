@@ -7,7 +7,7 @@ cover:
 
 ...
 
-Le texte suivant a été rédigé pour une édition de (Louis Jacob)[https://stayforthevibe.blogspot.com] qui est prévue pour décembre 2025, nommée *A Glass Half Full*.
+Le texte suivant a été rédigé pour une édition de [Louis Jacob](https://stayforthevibe.blogspot.com) qui est prévue pour décembre 2025, nommée *A Glass Half Full*.
 
 <br>
 
@@ -15,12 +15,12 @@ Le texte suivant a été rédigé pour une édition de (Louis Jacob)[https://sta
 
 <br>
 
-<p style="text-indent: 2em;">Nous admettons ordinairement que la société est fragmentée en différents groupe d’individus en fonction soit de leur profession (selon Karl Marx ou John Goldthorpe), soit de leurs ressources (les capitaux) socio-économiques (selon Pierre Bourdieu), soit par une combinaison des deux (selon Sam Friedman et Daniel Laurison), soit par des divisions culturelles (ethnicité, genre, religions, …). Diviser, fragmenter la société, nous permet de mieux la lire ; en comprenant ses différentes composantes, nous accédons aux dynamiques qui traversent la société. Marx distingue deux classes sociales ; la bourgeoisie et le prolétariat, qu’il faut comprendre comme les propriétaires et les non-propriétaires. Ces classes sont en lutte soit pour conserver leurs capitaux et en acquérir davantage pour la bourgeoisie, soit pour acquérir des capitaux qui n’ont jamais été possédés pour le cas du prolétariat. 
+Nous admettons ordinairement que la société est fragmentée en différents groupe d’individus en fonction soit de leur profession (selon Karl Marx ou John Goldthorpe), soit de leurs ressources (les capitaux) socio-économiques (selon Pierre Bourdieu), soit par une combinaison des deux (selon Sam Friedman et Daniel Laurison), soit par des divisions culturelles (ethnicité, genre, religions, …). Diviser, fragmenter la société, nous permet de mieux la lire ; en comprenant ses différentes composantes, nous accédons aux dynamiques qui traversent la société. Marx distingue deux classes sociales ; la bourgeoisie et le prolétariat, qu’il faut comprendre comme les propriétaires et les non-propriétaires. Ces classes sont en lutte soit pour conserver leurs capitaux et en acquérir davantage pour la bourgeoisie, soit pour acquérir des capitaux qui n’ont jamais été possédés pour le cas du prolétariat. 
 Marx réfléchit par structures pour comprendre les dynamiques entre ces deux classes ; la main-d’oeuvre (le prolétariat) alimente la base économique de la société par sa force de travail et les relations de productions qui créant du capital pour les bourgeois lorsque la production est vendue. Pour que cette base économique soit maintenue, il y a un système de valeur alimenté par l’économie, et qui s’autoalimente aussi.
 
-<p style="text-indent: 2em;">Cette organisation des valeurs prend forme dans une super-structure idéologique ; elle comprend l’éducation, la politique, la religion, les arts, et permet dès lors de maintenir un certain appareil en place ; étant donné que nous adhérons à un système de valeur, composite de notre vie sociale et de notre vie en société, nous travaillons selon l’*ethos capitaliste* (terme de Max Weber), dès lors, nous acceptons l’aliénation (de vendre à moindre coût notre force de production et de créer du surplus de production ; la plus-value qui alimente les capitaux des plus riches).
+Cette organisation des valeurs prend forme dans une super-structure idéologique ; elle comprend l’éducation, la politique, la religion, les arts, et permet dès lors de maintenir un certain appareil en place ; étant donné que nous adhérons à un système de valeur, composite de notre vie sociale et de notre vie en société, nous travaillons selon l’*ethos capitaliste* (terme de Max Weber), dès lors, nous acceptons l’aliénation (de vendre à moindre coût notre force de production et de créer du surplus de production ; la plus-value qui alimente les capitaux des plus riches).
 
-<p style="text-indent: 2em;">Cela nous permet de comprendre pourquoi nous acceptons d'user de notre temps et de notre force pour un système qui ne nous convient pas. Ces divisions binaires (superstructure/base, bourgeoisie/prolétariat) sont cependant réductrice et ne permettent de penser le changement social que par l’action de la prolétarisation ; la croissance du nombre de prolétaire créant une conscience de classe ; comprendre solidarité de classe. La mutation de la société n’est donc possible uniquement par une classe pour soi qui se révolte et qui produit une révolution. Sauf que, matériellement, comment organisons-nous cette révolution, si chancun·e·x dépend de sa force de production, permettant d’acquérir un salaire, pour (sur)vivre ? Je ne dis pas ça en opposition à une révolution, au contraire, mais je m’oppose au fait que nous attendons que ce soit les autres qui la fasse, sans qu’on ne donne aucun outil ; un changement social se fait en fonction des ressources dont nous disposons.
+Cela nous permet de comprendre pourquoi nous acceptons d'user de notre temps et de notre force pour un système qui ne nous convient pas. Ces divisions binaires (superstructure/base, bourgeoisie/prolétariat) sont cependant réductrice et ne permettent de penser le changement social que par l’action de la prolétarisation ; la croissance du nombre de prolétaire créant une conscience de classe ; comprendre solidarité de classe. La mutation de la société n’est donc possible uniquement par une classe pour soi qui se révolte et qui produit une révolution. Sauf que, matériellement, comment organisons-nous cette révolution, si chancun·e·x dépend de sa force de production, permettant d’acquérir un salaire, pour (sur)vivre ? Je ne dis pas ça en opposition à une révolution, au contraire, mais je m’oppose au fait que nous attendons que ce soit les autres qui la fasse, sans qu’on ne donne aucun outil ; un changement social se fait en fonction des ressources dont nous disposons.
 
 <p style="text-indent: 2em;">Ensuite, nous questionnons aussi chez Marx le fait que la superstructure de l’ethos capitaliste ne dépende que du produit des forces économiques, alors qu’il semble qu’elle possède une autonomie relative. Par exemple, Weber prend une vision inverse ; l’éthique religieuse protestante (ascétique, vouloir posséder plus en ne dépensant le moins possible) serait source du maintien du capitalisme (et non le capitalisme comme source de la religion).
 
@@ -30,6 +30,7 @@ Marx réfléchit par structures pour comprendre les dynamiques entre ces deux cl
 
 *fig 1. Base et superstructure dans le système capitaliste, selon Karl Marx* 
 <br>
+
 
 <p style="text-indent: 2em;">Le modèle marxiste des structures peut encore faire sens dans nos sociétés, mais il est lacunaire dans la pluralité des classes qui existent aujourd’hui. 
 
@@ -47,7 +48,7 @@ Marx réfléchit par structures pour comprendre les dynamiques entre ces deux cl
  
 <br>
 
-<img src = "static/img/classification-NS-SEC">
+<img src = "static/img/classification-NS-SEC.png">
 
 *fig 2. Classification de John Goldthorpe, tableau réalisé par Laurie Hanquinet*
 
@@ -93,7 +94,7 @@ Et donc dans ces conceptions de Weber, de Giddens et de Beck, un problème d’i
  
 <br>
 
-<img src = "static/img/capitaux-bourdieu-tab">
+<img src = "static/img/capitaux-bourdieu-tab.png">
 
 *fig 3. Les capitaux bourdieusiens* 
 
@@ -102,7 +103,7 @@ Et donc dans ces conceptions de Weber, de Giddens et de Beck, un problème d’i
 
 <br>
 
-<img src = "static/img/bourdieu-capitaux3">
+<img src = "static/img/bourdieu-capitaux3.jpg">
 
 *fig 4. Espace des positions sociales ; les métiers exercés selon le volume des capitaux* 
 <br>
@@ -129,7 +130,7 @@ Nous comprenons bien que ces distinctions, et donc inséparablement ces classes,
 
 <br>
 
-<img src = "static/img/deusUnatura">
+*<img src = "static/img/deusUnatura.png">
 
 *fig 5. Intersection et union* 
 
@@ -145,15 +146,15 @@ Nous comprenons bien que ces distinctions, et donc inséparablement ces classes,
 <p style="text-indent: 2em;">Une fêlure avec son milieu d’origine semble être nécessairement bonne pour un développement de l’identité propre, mais pas lorsqu’elle passe par des valeurs capitalistes de la progression dans le seul but de progresser. Ce serait justement la ré-flexion, désignant un mouvement de retour en arrière (non éternel) pour déduire un sens à notre vécu, et à notre vivant, permet d’atteindre un autre soi dont nous n’avions pas accès sans mouvement vers soi. Ré-fléchir (marquer le mouvement en arrière sous un effort) et réfléchir (renvoyer par la réflexion le soi), implique l’union avec soi, car nous nous retrouvons face à nous-même, au « je », justement en passant par la prise en compte de l’autre, de l’altérité, de ce qui est différent, sans l’absorber (c’est-à-dire sans le ramener à moi). 	
 <p style="text-indent: 2em;">Plutôt que de valoriser un transfuge matériel, nous pourrions, dans une conception très idéaliste des choses, valoriser un transfuge inter-social (dans l’interaction avec l’altérité) et inter-culturel, ne nécessitant pas uniquement un mouvement « vers l’avant », mais offrant la possibilité, ou même demandant un mouvement multi-directionnel. 
 
----
-## <u> Bibliographie </u>
 
 <br>
 
+<hr>
+
+## <u>*Bibliographie*</u>
+<br>
 Certains articles sont disponibles [ici](https://drive.google.com/drive/u/0/folders/1ddBupMfcjKCk19PLeiPEhmhdCKHUJceh). 
-
 <br>
-
 Anthias, F. (2001). « The Material and the Symbolic in Theorizing Social Stratification: Issues of Gender, Ethnicity and Class ». *The British Journal of Sociology*, vol. 52. 
 <br>
 Barbaras, R. (2011). *Introduction à une phénoménologie de la vie.* Paris, Vrin.
@@ -213,8 +214,7 @@ Weber, M. (1905). *L’Éthique protestante et l’esprit du capitalisme*. Paris
 Weber, M. (1920). *Sociologie de la religion*. Paris, Gallimard.
 <br>
 
----
-<br>
+<hr>
 
 [^1] : contenu_de_la_note "Remis en question par plusieurs sociologues, notamment le couple Pinçon et Pinçon-Charlot, comment considérer que la bourgeoisie ne forme qu’une seule classe, malgré les différences de fortunes astronomique entre un petit bourgeois et un milliardaire ? Malgré ces différences de fortunes, les Pinçon et Pinçon-Charlot montrent dans Sociologie de la bourgeoisie (2000) que les habitudes de vies sont quand même similaires (participer à des rallyes, à des clubs, leur manière de créer des relations sociales, …). Ensuite, je pense qu’on peut se poser la question de la classe moyenne ; la classe présentant le moins de conscience de classe, parce que n’ayant pas de définition claire, tout le monde s’y identifie. Elle comprend un nombre d’individu conséquent. Raymond Aron, lui, estimait que les sociétés se dirigent vers un modèle totalement industriel avec la prédominance de la classe moyenne, comprenant des conditions de vie et de consommation satisfaisantes."
 
