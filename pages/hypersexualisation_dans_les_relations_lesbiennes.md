@@ -87,8 +87,6 @@ Par-là, elle entend que dans les relations hétérosexuelles, le « féminin »
 les situations de dominations et que ces situations soient désirables dans nos fantasmes.
 
 
-
-
 | Masculin | Féminin |
 |------------------|-----------------|
 | Actif            | Passif          |
@@ -129,7 +127,7 @@ peine le fait de considérer une personne comme un objet qui pourrait subvenir �
 fantasmes « les plus fous », j’ai le sentiment qu’elle est de moins en moins avouable.
 Voire même pratiquée ; si tu désires une pratique sexuelle avec une personne du même
 sexe, ou ne se désignant pas du sexe « opposé » au tien, tu sors simplement de
-l’hétérosexualité. Cependant, cela ne signifie pas sortir de l’hétéronormativité
+l’hétérosexualité. Cependant, cela ne signifie pas sortir de l’hétéronormativité.
 
 Cependant, il apparaît qu’un certain groupe social se désignant comme lesbien,
 bisexuel ou pansexuel (et donc pas « hétéro-curieux ») n’envisagerait les relations avec
