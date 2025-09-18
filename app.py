@@ -119,6 +119,16 @@ def info():
         return render_template('single.html', page=page, catList=catList)
     except Exception as e:
         return str(e), 500
+    
+    
+@app.route('/reflexivite')
+def info():
+    try:
+        page = pages.get_or_404('info')
+        catList = Liste_cat()
+        return render_template('single.html', page=page, catList=catList)
+    except Exception as e:
+        return str(e), 500
 
 @app.route('/cat/<path:catname>')
 def catPage(catname):

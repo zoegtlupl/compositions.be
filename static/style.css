@@ -20,12 +20,6 @@ footer {
 	font-size: 1.5em;
 }
 
-footer:hover {
-	color: #3d47b6; /* Change la couleur au survol */
-	text-decoration: underline; /* Ajoute un soulignement au survol */
-	transition-duration: 0.5s; /* Animation fluide */
-	/*	background-color: #f0f0f0;  Ajout d'une couleur de fond légère au survol */
-}
 
 .main {
 	display: flex;
@@ -183,6 +177,14 @@ h2, h1 {
 h2 {
 	font-size: 0.75em;
 	font-weight: normal;
+}
+
+h2:hover {
+	color: #3d47b6;
+	font-size: 0.75em;
+	font-weight: normal;
+		text-decoration: underline; /* Soulignement au survol */
+
 }
 
 h1 {

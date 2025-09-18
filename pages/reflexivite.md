@@ -1,7 +1,7 @@
 title: Réflexivité
 published: 2025-06-10
-author: zoe
-cat: default
+author: Zoé
+cat: base
 desc : 
 cover: 
 
