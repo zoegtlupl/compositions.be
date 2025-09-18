@@ -1,4 +1,4 @@
-title: La notion de culture chez Richard Hoogart
+title: La notion de culture chez Richard Hoggart
 published: 2024-12-15
 author: zoe
 cat: default

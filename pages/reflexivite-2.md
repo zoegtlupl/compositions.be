@@ -1,4 +1,4 @@
-title: Réflexivité 2
+title: Réflexivité
 published: 2025-06-10
 author: zoe
 cat: default
