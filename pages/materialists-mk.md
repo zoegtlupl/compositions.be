@@ -10,7 +10,7 @@ cover:
 
 
 
-Materialists, de Celine Song, est une comédie romantique, dont les rôles principaux sont partagés entre Dakota Johnson, Chris Evans et Pedro Pascal. Avec ces noms, nous comprenons immédiatement à quel genre de film nous devrons assister, car dans nos esprits, Johnson est désormais essentialisée en Anastasia Steele de 50 Nuances de Grey, Evans, je ne savais pas qui c’était, mais en tout cas un typique beau blond, musclé, qui a joué dans les Avengers, donc certainement un des archétype héroïque, et Pascal est l’un des sex symbol les plus médiatisés depuis The Last of Us (2023) à Hollywood. Et nos attentes sont en effet assez bien assouvies.
+*Materialists*, de Celine Song, est une comédie romantique, dont les rôles principaux sont partagés entre Dakota Johnson, Chris Evans et Pedro Pascal. Avec ces noms, nous comprenons immédiatement à quel genre de film nous devrons assister, car dans nos esprits, Johnson est désormais essentialisée en Anastasia Steele de *50 Nuances de Grey*, Evans, je ne savais pas qui c’était, mais en tout cas un typique beau blond, musclé, qui a joué dans les Avengers, donc certainement un des archétype héroïque, et Pascal est l’un des sex symbol les plus médiatisés depuis The Last of Us (2023) à Hollywood. Et nos attentes sont en effet assez bien assouvies.
 <br>
 
 Lucy Mason (Dakota Johnson) travaille pour une agence de rencontre amoureuse — du nom d’Adore—, et elle est très douée dans son activité. Elle se décrit cependant comme une éternelle célibataire. Nous devinons son talent du fait qu’un certain nombre de rencontres qu’elle a organisé ce sont conclues par des mariages. Le mariage est dès lors la finalité, la fin heureuse de chacun et chacune dans les conceptions de Lucy, de son entreprise et des client·es. 
@@ -20,9 +20,11 @@ Harry est tout de suite très intéressé par Lucy, et assez vite, les rendez-vo
 
 ## Les échanges économico-sexuels 
 Cela nous rappelle le graphique employé par les incels en ligne (voir Fig.1.), qui montre que les femmes sont attirées par les hommes au fort potentiel économique. La première partie du film semble confirmer ce stéréotype, mais rappelons-le, Lucy Mason est une fille pas comme les autres. 
+
 <br>
 *![Fig.1](https://www.breizh-info.com/wp-content/uploads/2023/05/Distribuzione_attivita_sessuale.jpg) Fig. 1. La distribution de l'activité sexuelle selon la communauté Incel*
 <br>
+
 Nous avons tendance à penser que le critère économique est très daté dans les relations amoureuses dans les cercles de gauche dits/perçus extrêmes (LFI, PTB, Parti Pirate), pourtant c’est une idée que nous retrouvons très régulièrement parmi certaines Influenceuses revendiquées de la gauche douce ou centristes [^1]. Parmi les francophones on peut citer Manon Delcourt (pour qui ce critère est davantage un sous-entendu — mais ce n’est pas très clair car elle dénonce le princess treatment), ou alors la sociologue-streameuse Léa Choue, sur sa chaîne Et si c’était faux. Chez les Anglo-saxons, il y a la très renommée Thewizardliz, qui a établit un empire de développement personnel féminin, « self-help » et « empowerment » destiné à un public majoritairement féminin. J’écris que ces personnes sont de la « gauche douce » parce qu’une bonne partie de leur public se revendiquent de gauche (voir les commentaires des vidéos), mais évidemment qu’être féministe, ce n’est pas être de gauche — et je pense d’ailleurs que c’est assez complexe pour le cas de Thewizardliz de se positionner sur son parti politique. 
 Ces trois femmes sont donc contre l’idée du 50/50. Cette idée féministe d’être contre le 50/50, donc contre le partage égal des tâches et des dépenses, se base sur le fait qu’une personne socialisée comme femme exerce un travail domestique, social et mental supérieur à son partenaire socialisé comme un homme (donc ici nous contextualisons dans une relation hétérosexuelle). Par exemple, même si l’homme veut aider, au lieu de prendre une initiative, il demandera ce qu’il faut faire pour aider la femme, ce qui lui implante une charge mentale. Puis, si elle lui demande de lancer une machine par exemple, il lui demandera comment faire. L’homme doit alors pouvoir compenser financièrement ce travail supplémentaire, comme par exemple payer une plus grande part du loyer. De plus, étant donné que statistiquement les hommes sont plus payés que les femmes, l’argumentaire est doublement plus fort. 
 <br>
@@ -54,7 +56,7 @@ Est-ce que le rapport sexuel sera obligatoire, car perçu comme un travail domes
 
 Ces dynamiques existent alors qu’elles ne sont pas issues d’une relation monétaire, mais elles sont pratiquées sous les symboles du patriarche. Je précise que ce ne sont pas des légitimations justes ou justifiées, mais inscrites dans les logiques misogynes et capitalistes. 
 La rémunération des femmes au foyer ne paraît pas être une solution viable et saine. Elle ne devrait pas être privée mais issue d’un système d’État et reconnu comme un travail total. 
-Il en va de même pour les personnes socialisées comme femmes qui travaillent en dehors du foyer et qui continuent de faire la majorité des tâches ménagères, domestiques et psychologiques pour permettre à la vie privée d’être agréable. Peut-être que la solution est de ne pas vivre, de ne pas partager un espace domestique avec un homme. La conservation de l’amour coïncide avec le fait de garder une sphère privée, psychique mais aussi physique ou matérielle. Sans entrer dans le paroxysme comme Ariane et Solal dans Belle du Seigneur, qui refusent d’éternuer devant l’autre ou de prendre un bain ensemble, mais peut être un peu plus « radical » que Virginia Woolf qui revendiquait —seulement— une « chambre à soi ». Refuser de vivre avec l’autre, c’est conserver son autonomie. 
+Il en va de même pour les personnes socialisées comme femmes qui travaillent en dehors du foyer et qui continuent de faire la majorité des tâches ménagères, domestiques et psychologiques pour permettre à la vie privée d’être agréable. Peut-être que la solution est de ne pas vivre, de ne pas partager un espace domestique avec un homme. La conservation de l’amour coïncide avec le fait de garder une sphère privée, psychique mais aussi physique ou matérielle. Sans entrer dans le paroxysme comme Ariane et Solal dans *Belle du Seigneur*, qui refusent d’éternuer devant l’autre ou de prendre un bain ensemble, mais peut être un peu plus « radical » que Virginia Woolf qui revendiquait —seulement— une « chambre à soi ». Refuser de vivre avec l’autre, c’est conserver son autonomie. 
 
 <br>
 
@@ -65,7 +67,8 @@ Ce qui a été évoqué plus tôt semble vouloir empêcher les personnes qui veu
 
 <br>
 
-Le paysage économique dans les relations hétérosexuelles
+##Le paysage économique dans les relations hétérosexuelles
+
 L’idée de Lucy (Dakota Johnson) et d’Adore sur le fait de partager un contexte économique similaire pour que deux personnes relationnent — enfin, se rencontrent ; c’est Lucy qui décide si deux personnes pourraient ou non « matcher » — n’est pas forcément complètement ridicule. La manière d’amener le sujet est très bancale, mais nous pouvons nous pencher sur l’idée. Lucy ne cesse de répéter à Harry (Pedro Pascal, l’homme riche) qu’ils n’ont rien à faire ensemble parce qu’il est bien plus riche qu’elle. L’happy-ending du film est qu’elle et son ex (Chris Evans), qui est beaucoup moins à l’aise financièrement que Harry, se remettent ensemble et se marient. Les deux partageaient en effet des problèmes d’argent à l’époque de leur première relation et où Lucy ne travaillaient pas à Adore. 
 Nous pouvons le noter dans plusieurs comédies romantiques ; les relations amoureuses entre deux personnes de classes sociales différentes sont —presque— toujours dramatique. L’exemple le plus parlant est Titanic, où littéralement Jack meure, métaphoriquement il n’y a pas de place pour lui dans le monde de Rose. 
 Ici Lucy évite le drame en retournant avec son ex-compagnon. 
@@ -79,7 +82,7 @@ Ici je ne signifie pas que toute relation avec un·e partenaire d’une classe s
 <br>
 
 ## Fantasmer comme une personne socialisée en tant que femme
-Dans la relation entre Harry et Lucy est filmée de manière onirique ; il y a des références au mythe du prince charmant, Harry est absolument parfait — jusqu’à ce qu’il se confie, et même lors de sa confidence, nous sommes poussé·es à le trouver mignon. En regardant ce film et cette relation, nous assistons un peu à une réalisation d’un fantasme. Les personnes éduquées pour devenir des femmes ont été inculquées que, si on le méritait, nous pouvons attendre d’un homme qu’il soit beau, riche, et qu’il nous offre un certain niveau de vie. On nous apprend à désirer, à fantasmer cet archétype. Dakota Johnson se retrouve alors dans un rôle semblable à celui d’Anastasia dans 50 Nuances de Grey, qui est très clairement un désir érotique de son autrice (ce n’est pas une critique, mais une interprétation — d’autant plus que 50 Nuances est une fanfiction de Twilight). Dans le roman et dans le film de 50 Nuances, nous retrouvons tous les codes sexuels et matériels que nous avons intégrés comme sexy ; un homme dominant, riche, des relations sexuelles dans un environnement luxueux, une certaine violence mêlée à de l’amour, et une femme qui « sauve » l’homme qu’elle aime (parce qu’elle n’est « pas comme les autres »). Il semble que Johnson se retrouve dans un rôle similaire avec le personnage de Lucy en relation avec celui de Harry, mais Celine Song contourne le fantasme irréaliste d’Anastasia par l’intermédiaire de son autrice E. L. James, pour nous fournir une morale qui lui semble plus juste ; c’est l’amour qui triomphe, et pas la richesse de son·sa partenaire. 
+Dans la relation entre Harry et Lucy est filmée de manière onirique ; il y a des références au mythe du prince charmant, Harry est absolument parfait — jusqu’à ce qu’il se confie, et même lors de sa confidence, nous sommes poussé·es à le trouver mignon. En regardant ce film et cette relation, nous assistons un peu à une réalisation d’un fantasme. Les personnes éduquées pour devenir des femmes ont été inculquées que, si on le méritait, nous pouvons attendre d’un homme qu’il soit beau, riche, et qu’il nous offre un certain niveau de vie. On nous apprend à désirer, à fantasmer cet archétype. Dakota Johnson se retrouve alors dans un rôle semblable à celui d’Anastasia dans *50 Nuances de Grey*, qui est très clairement un désir érotique de son autrice (ce n’est pas une critique, mais une interprétation — d’autant plus que 50 Nuances est une fanfiction de *Twilight*). Dans le roman et dans le film de 50 Nuances, nous retrouvons tous les codes sexuels et matériels que nous avons intégrés comme sexy ; un homme dominant, riche, des relations sexuelles dans un environnement luxueux, une certaine violence mêlée à de l’amour, et une femme qui « sauve » l’homme qu’elle aime (parce qu’elle n’est « pas comme les autres »). Il semble que Johnson se retrouve dans un rôle similaire avec le personnage de Lucy en relation avec celui de Harry, mais Celine Song contourne le fantasme irréaliste d’Anastasia par l’intermédiaire de son autrice E. L. James, pour nous fournir une morale qui lui semble plus juste ; c’est l’amour qui triomphe, et pas la richesse de son·sa partenaire. 
 
 <br>
 
@@ -88,7 +91,7 @@ Qu’est-ce que nous avons à comprendre de cette fin ? Est-ce que Celine Song v
 
 <br>
 
-Les relations amoureuses sous le prisme du capitalisme tardif
+## Les relations amoureuses sous le prisme du capitalisme tardif
 Peut-être pouvons nous mettre la morale du film en lien avec la pensée d’Eva Illouz. Je vais évoquer ici l’idée qu’elle élabore dans La fin de l’amour et Pourquoi l’amour fait mal, mais il est important de rappeler qu’elle soutient Israël (pas le gouvernement israélien mais l’« État » d’israël), et cela a été le sujet de conflits au sein de l’établissement où elle enseigne, l’EHESS (Paris). Je ne soutient en aucun cas l’État colonial d’israël et je condamne le fait qu’Illouz puisse soutenir cette cause, au détriment du meurtre de milliers de Palestinien·nes. 
 Je lui pique juste l’idée que l’amour est devenu un phénomène de riches, où seul·es les riches savent « bien » s’aimer, ayant le temps, les disponibilités et les moyens de procurer une certaine manière d’aimer. Elle explique que l’amour est devenu une dérive du capitalisme ; nous cherchons le meilleur « produit » à aimer, et nous performons l’acte d’aimer pour qu’il corresponde à une valorisation économique et sociale. Nous nous restreignons à aimer par peur de gâcher cet amour pour un candidat qui n’en vaut pas la peine, comme si l’amour était un bien épuisable et privé. Materialists irait à contre-sens de cette tendance capitaliste qui transforme les relations amoureuses en recherche de profit, intérêt personnel et concurrence, mais de manière maladroite  et superficielle.  
 
@@ -97,15 +100,15 @@ Je lui pique juste l’idée que l’amour est devenu un phénomène de riches, 
 
 ## <u> *Bibliographie* </u>
 <br>
-Arte. (2025). « Croyons-nous encore à l’amour  ? » (Les idées larges). [Vidéo] https://www.youtube.com/watch?v=6qbpUH6hzz0.
+[Arte. (2025). « Croyons-nous encore à l’amour  ? » (Les idées larges).](https://www.youtube.com/watch?v=6qbpUH6hzz0)
 <br>
 Bourdieu, P. (1978). « La mobilité sociale: aperçu de recherches récentes ». Revue française de sociologie, vol. 19. 
 <br>
-Choue, L. https://www.youtube.com/@leachoue.
+[Choue, L.](https://www.youtube.com/@leachoue)
 <br>
-Clews Parsons, E. (1906). The Family: An Ethnographical and Historical Outline With Descriptive Notes. https://archive.org/details/familyethnograph00parsuoft/mode/1up?view=theater.n
+[Clews Parsons, E. (1906). The Family: An Ethnographical and Historical Outline With Descriptive Notes.](https://archive.org/details/familyethnograph00parsuoft/mode/1up?view=theater.n)
 <br>
-Delcourt, M. (2025). « on met nos critères de dating la poubelle en 2025? w/ Louise BGN x Meetic ». [Vidéo]. https://www.youtube.com/watch?v=QO1cGODjVHk.
+[Delcourt, M. (2025). « on met nos critères de dating la poubelle en 2025? w/ Louise BGN x Meetic ».](https://www.youtube.com/watch?v=QO1cGODjVHk.)
 <br>
 Friedman, S. (2014). The Price of the Ticket. Londres, Policy Press. 
 <br>
@@ -116,7 +119,8 @@ Hall, S. (1997). Identités et cultures. Politiques des cultural studies. Paris,
 <br>
 Hoggart, R. (1957). La culture du pauvre. Paris, Les Éditions de Minuit.
 <br>
-Trachman, M. (2009). La banalité de l'échange. Entretien avec Paola Tabet. (https://doi.org/10.4000/gss.1227) 
-Thewizardliz. https://www.youtube.com/@Thewizardliz.
+[Trachman, M. (2009). La banalité de l'échange. Entretien avec Paola Tabet.](https://doi.org/10.4000/gss.1227) 
 <br>
-Wynn, N. (2024). « Twilight ». [Vidéo] https://www.youtube.com/watch?v=bqloPw5wp48.
+[Thewizardliz.](https://www.youtube.com/@Thewizardliz)
+<br>
+[Wynn, N. (2024). « Twilight »](https://www.youtube.com/watch?v=bqloPw5wp48)
