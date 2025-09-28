@@ -1,4 +1,4 @@
-title: <u>Materialists</u> : relations romantiques dans le capitalisme tardif
+title: Materialists, relations romantiques dans le capitalisme tardif
 published: 2025-09-27
 author: zoe
 cat: default

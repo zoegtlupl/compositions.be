@@ -183,7 +183,7 @@ h2:hover {
 	color: #3d47b6;
 	font-size: 0.75em;
 	font-weight: normal;
-		text-decoration: underline; /* Soulignement au survol */
+	text-decoration: underline; /* Soulignement au survol */
 
 }
 
@@ -279,7 +279,10 @@ h3 {
 	footer {
 		font-size: 1.2em; /* Réduction de la taille de la police */
 		border-radius: 5px; /* Réduction des coins arrondis */
+		position: relative;
 	}
+
+
 
 	footer:hover {
 		color: #3d47b6; /* Même couleur au survol */
