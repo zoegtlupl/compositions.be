@@ -96,17 +96,27 @@ Je lui pique juste l’idée que l’amour est devenu un phénomène de riches, 
 
 
 ## <u> *Bibliographie* </u>
-
+<br>
 Arte. (2025). « Croyons-nous encore à l’amour  ? » (Les idées larges). [Vidéo] https://www.youtube.com/watch?v=6qbpUH6hzz0.
+<br>
 Bourdieu, P. (1978). « La mobilité sociale: aperçu de recherches récentes ». Revue française de sociologie, vol. 19. 
+<br>
 Choue, L. https://www.youtube.com/@leachoue.
+<br>
 Clews Parsons, E. (1906). The Family: An Ethnographical and Historical Outline With Descriptive Notes. https://archive.org/details/familyethnograph00parsuoft/mode/1up?view=theater.n
+<br>
 Delcourt, M. (2025). « on met nos critères de dating la poubelle en 2025? w/ Louise BGN x Meetic ». [Vidéo]. https://www.youtube.com/watch?v=QO1cGODjVHk.
+<br>
 Friedman, S. (2014). The Price of the Ticket. Londres, Policy Press. 
+<br>
 Friedman, S., & Laurison, D. (2019). The Class Ceiling: Why it Pays to be Privileged. Bristol, Policy Press. 
 Song, C. (2025). Materialists. [Film] A24, Stage 6 Films, Sony Pictures Releasing. 
+<br>
 Hall, S. (1997). Identités et cultures. Politiques des cultural studies. Paris, Éditions Amsterdam (traduction française plus récente, 2007).
+<br>
 Hoggart, R. (1957). La culture du pauvre. Paris, Les Éditions de Minuit.
+<br>
 Trachman, M. (2009). La banalité de l'échange. Entretien avec Paola Tabet. (https://doi.org/10.4000/gss.1227) 
 Thewizardliz. https://www.youtube.com/@Thewizardliz.
+<br>
 Wynn, N. (2024). « Twilight ». [Vidéo] https://www.youtube.com/watch?v=bqloPw5wp48.
