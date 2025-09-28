@@ -15,7 +15,7 @@ En décembre 2023, Michel Onfray fut interviewé par le média Le Crayon sur You
 
 ---
 
-## <u> Bibliographie </u>
+## <u> *Bibliographie* </u>
 <br>
 Bennett, T., et al. (2008). _Culture, Class, Distinction_. Londres, Routledge.
 <br>

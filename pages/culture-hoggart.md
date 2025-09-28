@@ -15,7 +15,7 @@ Dans _La culture du pauvre_, Hoggart oppose la culture populaire à la culture d
 
 ---
 
-## Bibliographie
+## <u> *Bibliographie* </u>
 <br>
 Adorno, T. W., Horkheimer, M. (1940). _Dialectique de la Raison_. Paris, Éditions Gallimard.
 <br>
